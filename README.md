@@ -7,22 +7,22 @@ Ce projet illustre l’implémentation des trois stratégies d’héritage JPA/H
 
 Stratégies implémentées :
 
-SINGLE_TABLE
+-SINGLE_TABLE
 
-JOINED
+-JOINED
 
-TABLE_PER_CLASS
+-TABLE_PER_CLASS
 
 
 🧰 Technologies
 
-Java 17+
+-Java 17+
 
-Maven
+-Maven
 
-Hibernate (JPA)
+-Hibernate (JPA)
 
-H2 (in-memory database)
+-H2 (in-memory database)
 
 🎥 Vidéo démonstrative :
 👉 [https://drive.google.com/file/d/1SaCg8oMKC4T0ifD7UdgLZQEYpvVvYH39/view?usp=drive_link]
