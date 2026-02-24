@@ -1,4 +1,6 @@
 📌 Hibernate Inheritance — JPA/Hibernate
+
+
 🎯 Objectif
 
 Ce projet illustre l’implémentation des trois stratégies d’héritage JPA/Hibernate en utilisant Hibernate et la base de données H2.
